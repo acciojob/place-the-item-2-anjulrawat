@@ -4,6 +4,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    position:center;
 }
 .item{
    width: 100px;
